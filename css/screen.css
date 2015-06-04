@@ -55,9 +55,9 @@ p {
 }
 
 body {
-  background-color: #126CA5;
+  background-color: white;
   font: 16px century gothic, century gothic, clean, sans-serif;
-  line-height: 110%;
+  line-height: 80%;
   *font-size: small;
   text-align: center;
 }
@@ -163,7 +163,7 @@ font-size: 3em;
   }
 
     .site .footer .contact {
-      float: left;
+      float: center;
       margin-left: .2em;
     }
     
