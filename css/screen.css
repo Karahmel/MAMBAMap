@@ -19,7 +19,7 @@ html, body {
 
 h1 {
 font-size: 1em;
-  margin-bottom: 3em;
+  margin-bottom: .5em;
   color: #19096B;
   font-variant: small-caps;
 }
@@ -27,7 +27,6 @@ font-size: 1em;
 h2 {
     font-size: 1em;
       color: #4C8E8D;
-      font-variant: small-caps;
 }
 
 h3 {
@@ -57,7 +56,7 @@ p {
 
 body {
   background-color: white;
-  font: 14px century gothic, century gothic, clean, sans-serif;
+  font: 12px "century gothic", "century gothic", clean, sans-serif;
   line-height: 110%;
   *font-size: small;
   text-align: center;
@@ -69,12 +68,12 @@ a {
 a:hover {
   color: #81d3b5;
     text-decoration: none;
-
+      opacity: .2;
 }
 
 a:visited {
   color: #81d3b5;
-  opacity: .5;
+  opacity: .75;
 }
 
 table {
