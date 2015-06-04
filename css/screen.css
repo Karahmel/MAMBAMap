@@ -56,11 +56,12 @@ p {
 
 body {
   background-color: #126CA5;
-  font: 16px century gothic, century gothic, clean, sans-serif;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
   line-height: 110%;
-  *font-size: small;
   text-align: center;
 }
+
 a {
   color: #81d3b5;
 }
