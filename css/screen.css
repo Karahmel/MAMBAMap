@@ -19,8 +19,9 @@ html, body {
 
 h1 {
 font-size: 1em;
-  margin-bottom: .4em;
-   color: #19096B;
+  margin-bottom: 3em;
+  color: #19096B;
+  font-variant: small-caps;
 }
 
 h2 {
