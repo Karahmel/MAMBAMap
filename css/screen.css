@@ -7,14 +7,14 @@
 /* Global Reset */
 
 * {
-  margin: 0;
+  margin: 10;
   padding: 0;
 
 }
 
 }
 html, body {
-  height: 16px;
+  height: 26px;
 }
 
 h1 {
