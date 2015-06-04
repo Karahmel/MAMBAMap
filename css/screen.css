@@ -21,7 +21,7 @@ h1 {
 font-size: 1em;
   margin-bottom: .5em;
   color: #19096B;
-  font-variant: small-caps;
+  font-variant: all-caps;
 }
 
 h2 {
@@ -56,7 +56,7 @@ p {
 
 body {
   background-color: white;
-  font: 12px "century gothic", "century gothic", clean, sans-serif;
+  font: 12px 'Gravtias One', 'Arial Black', clean, sans-serif;
   line-height: 110%;
   *font-size: small;
   text-align: center;
