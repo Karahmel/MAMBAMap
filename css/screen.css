@@ -95,20 +95,20 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 1.5em;
-  color: red;
+  color: black;
 }
 
   ul.posts li {
     line-height: 1em;
   margin-bottom: 1.5em;
-    color: red;
+    color: black;
   }
 
   ul.posts span {
-    color: red;
+    color: black;
     font-family: Junction;
     font-size: 90%;
-     line-height: 120%
+     line-height: 120%;
   }
 
 /*****************************************************************************/
