@@ -62,11 +62,11 @@ body {
 }
 
 a {
-  color: #00a9e0;
+  color: #d0dd2b;
 }
 
 a:hover {
-  color: #00a9e0;
+  color: #d0dd2b;
     text-decoration: overline;
   opacity: .75;
 }
@@ -122,23 +122,23 @@ ul.posts {
 }
 
 .title {
-  color: #d0dd2b;
+  color: #81d3b5;
   margin-bottom: .3em;
 font-size: 3em;
-   margin-top: 1em;
+   margin-top: 2em;
 }
 
   .site .title a {
-    color: #d0dd2b;
+    color: #81d3b5;
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: #81d3b5;
+    color: #d0dd2b;
   }
 
   .site .title a.extra {
-    color: #AFD9C4;
+    color: #d0dd2b;
     text-decoration: none;
     margin-left: 0em;
   }
@@ -152,7 +152,8 @@ font-size: 3em;
   }
 
   .site .footer {
-    font-size: 36px;
+    align: middle;
+    font-size: 1em;
     color: white;
     border-top: 3px solid white;
     margin-top: 1em;
