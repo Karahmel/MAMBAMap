@@ -56,9 +56,8 @@ p {
 
 body {
   background-color: white;
-  font: 'Tangerine', serif;
+  font-family: Junction;
   font-size: 48px;
-  background-color: black;
   line-height: 110%;
   text-align: center;
 }
@@ -79,7 +78,6 @@ a:visited {
 }
 
 table {
-  font-size: inherit;
   font: 100%;
    line-height: 110%;
 }
@@ -102,8 +100,8 @@ ul.posts {
   }
 
   ul.posts span {
-    color: #98c73d;
-    font-family: 'Junction';
+    color: #FEFFE5;
+    font-family: Junction;
     font-size: 90%;
      line-height: 120%
   }
@@ -115,8 +113,9 @@ ul.posts {
 /*****************************************************************************/
 
 .site {
+
   color: #3b3b3d;
-  font: 30px 'Junction';
+  font-family: Junction;
   text-align: justify;
   width: 60%;
   margin: 4em auto 2em auto;
