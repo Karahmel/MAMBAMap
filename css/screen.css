@@ -52,7 +52,6 @@ p {
 
 body {
   background-color: #3b3b3d;
-  color: red;
   font-family: Junction;
   font-size: 20px;
   line-height: 110%;
@@ -199,7 +198,7 @@ font-size: 3em;
 
   #post pre {
     border: 1px solid white;
-    background-color: black;
+    background-color: white;
     padding: 0 2.4em;
   }
 
@@ -210,7 +209,7 @@ font-size: 3em;
 
   #post code {
     border: 1px solid white;
-    background-color: #81d3b5;
+    background-color: white;
     font-size: 70%;
     padding: 0 .2em;
   }
@@ -223,12 +222,12 @@ font-size: 3em;
 
   #post pre.terminal {
     border: 1px solid black;
-    background-color: #81d3b5;
+    background-color: white;
     color: white;
   }
 
   #post pre.terminal code {
-    background-color: #81d3b5;
+    background-color: white;
   }
 
 #related {
