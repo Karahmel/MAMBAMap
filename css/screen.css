@@ -18,16 +18,15 @@ html, body {
 }
 
 h1 {
-font-size: 1em;
+font-size: 1.5em;
   margin-bottom: .5em;
   color: #67cddc;
-  font-variant: uppercase;
 }
 
 h2 {
-    font-size: 1em;
+    font-size: 1.5em;
+      margin-bottom: .5em;
       color: #98c73d;
-        font-variant: small-caps;
 }
 
 h3 {
