@@ -21,12 +21,13 @@ h1 {
 font-size: 1em;
   margin-bottom: .5em;
   color: #67cddc;
-  font-variant: all-caps;
+  font-variant: uppercase;
 }
 
 h2 {
     font-size: 1em;
       color: #98c73d;
+        font-variant: small-caps;
 }
 
 h3 {
@@ -46,7 +47,6 @@ h5 {
 h6 {
   font-size: .75em;
   color: white;
-  font style: oblique;
 }
 p {
     font-size: .6em;
