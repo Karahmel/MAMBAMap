@@ -64,7 +64,7 @@ body {
 }
 
 a {
-  color: #98c73d;
+  color: #81d3b5;;
    margin-bottom: .5em;
 }
 
@@ -95,13 +95,13 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 1.5em;
-  color: #98c73d;
+  color: #81d3b5;;
 }
 
   ul.posts li {
     line-height: 1em;
   margin-bottom: 1.5em;
-    color: #98c73d;
+    color: #81d3b5;;
   }
 
   ul.posts span {
@@ -144,7 +144,7 @@ font-size: 3em;
   }
 
   .site .title a.extra {
-    color: #d0dd2b;
+    color: #81d3b5;
     text-decoration: none;
     margin-left: 0em;
   }
