@@ -44,7 +44,7 @@ h5 {
   color: white;
 }
 h6 {
-  font-size: .75em;
+  font-size: .85em;
   color: white;
 }
 p {
@@ -62,19 +62,21 @@ body {
 }
 
 a {
-  color: #d0dd2b;
+  color: #98c73d;
    margin-bottom: .5em;
 }
 
 a:hover {
-  color: #d0dd2b;
+  color: #98c73d;
     text-decoration: overline;
+       margin-bottom: .5em;
   opacity: .75;
 }
 
 a:visited {
-  color: #d0dd2b;
-  opacity: .75;
+  color: #98c73d;
+     margin-bottom: .5em;
+  opacity: .85;
 }
 
 table {
