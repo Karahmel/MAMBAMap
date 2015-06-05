@@ -152,8 +152,8 @@ font-size: 3em;
   }
 
   .site .footer {
-    align: middle;
-    font-size: 1em;
+    text-align: middle;
+    font-size: 1.5em;
     color: white;
     border-top: 3px solid white;
     margin-top: 1em;
