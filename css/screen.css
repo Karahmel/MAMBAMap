@@ -69,7 +69,7 @@ a {
 }
 
 a:hover {
-  color: #98c73d;
+  color: #81d3b5;
     text-decoration: overline;
        margin-bottom: .5em;
   opacity: .75;
@@ -119,7 +119,7 @@ ul.posts {
 
 .site {
 
-  color: #3b3b3d;
+  color: #81d3b5;
   font-family: Junction;
   text-align: justify;
   width: 60%;
